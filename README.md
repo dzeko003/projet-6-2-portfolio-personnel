@@ -6,7 +6,7 @@ Portfolio de développeur full-stack présentant mes projets, compétences et pa
 
 ## Stack technique
 
-- **Frontend** : HTML5, CSS3, JavaScript (vanilla)
+- **Frontend** : HTML5, CSS3
 - **Design** : Font Awesome, Google Fonts (Space Grotesk, Inter, JetBrains Mono)
 - **Déploiement** : GitHub Pages
 
